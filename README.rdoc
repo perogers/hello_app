@@ -1,11 +1,13 @@
 == README
 
+This is based on https://www.railstutorial.org/book/beginning Chapter 1
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version 2.0
 
 * System dependencies
 
